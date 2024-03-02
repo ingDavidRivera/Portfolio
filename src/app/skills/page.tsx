@@ -6,7 +6,11 @@ const page = () => {
     <div> 
       {/* background image */}
     </div>
-    // projects cards import
+    // technologies
+    // Programming languages
+    // soft-skills troubleshooting
+
+    // skill date
   )
 }
 
